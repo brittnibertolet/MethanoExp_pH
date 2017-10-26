@@ -1,0 +1,1 @@
+sampleID	lakeID	source	phTreatment	time0B55	NA	RegionalPool	low	B56	NA	RegionalPool	low	B57	NA	RegionalPool	high	B58	NA	RegionalPool	high	
